@@ -1,4 +1,4 @@
-### CONTEXTO 1: Testando atualização via Browser no GITHUB
+### CONTEXTO 1:
 
 '''
 PARA QUE EU POSSA DIRIGIR, EU PRECISO TER:

@@ -1,0 +1,52 @@
+3. Resumo dos conceitos utilizados
+Conceito
+
+Aplicação nas atividades
+
+def
+
+Criação de funções
+
+return
+
+Retorno de resultados
+
+Parâmetros
+
+Recebimento de valores pelas funções
+
+if / elif / else
+
+Tomada de decisões
+
+while
+
+Repetição até uma condição ser atendida
+
+for
+
+Repetição de tarefas
+
+input()
+
+Entrada de dados
+
+print()
+
+Exibição de resultados
+
+import random
+
+Importação de módulo
+
+random.randint()
+
+Geração de números aleatórios
+
+.lower()
+
+Conversão de letras para minúsculas
+
+Conclusão: Todas as atividades foram resolvidas utilizando funções, parâmetros, retornos, estruturas condicionais, laços de repetição e módulos do Python, conforme os conteúdos apresentados na Aula 8.
+
+Os códigos estão separados e prontos para serem copiados, executados e testados individualmente no Python ou no Google Colab.
